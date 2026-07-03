@@ -15,11 +15,11 @@ Everything is about building useful things.
 
 ### 👨‍💻 Languages
 
-JavaScript · TypeScript · Kotlin · Java · HTML · CSS
+JavaScript · TypeScript · Kotlin · Java · HTML · CSS  · Python · Java
 
 ### 🎨 Frontend
 
-Vue · Vite · Astro · Tailwind CSS
+Vue · Vite · Astro · Tailwind CSS 
 
 ### 📱 Mobile
 
@@ -35,48 +35,20 @@ OpenAI · AI Coding · Automation · GitHub Pages
 
 ### 🌐 Web / Product
 
-#### [Project Name One](https://example.com)
+#### [Inputbench](https://www.inputbench.com/)
 
-A useful website for solving real user needs.
+A useful website for testing your hardward.
 
-#### [Project Name Two](https://example.com)
+#### [BlockPoster](https://blockposter.online/)
 
-A lightweight tool focused on simple and practical user experience.
-
-### 📱 Android
-
-#### [Android Project](https://github.com/yourname/android-project)
-
-An Android project focused on real-world mobile development scenarios.
-
----
-
-## 🔗 Sites / Products
-
-Some sites I'm running or involved in:
-
-[My Website](https://example.com)
-·
-[My Blog](https://example.com)
-·
-[My Tool](https://example.com)
-·
-[Product One](https://example.com)
-·
-[Product Two](https://example.com)
+Make Large Posters From Any Image.
 
 ---
 
 ## 📬 Contact
 
-- GitHub: [@yourname](https://github.com/yourname)
-- Website: [your-website.com](https://example.com)
-
----
-
-## 📈 Profile views
-
-![Profile views](https://komarev.com/ghpvc/?username=yourname&color=blue)
+- GitHub: [@microHx](https://github.com/microHx)
+- Website: [toontone](https://toon-tone.com)
 
 ---
 
