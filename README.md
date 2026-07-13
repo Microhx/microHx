@@ -47,6 +47,10 @@ Make Large Posters From Any Image.
 
 sell your lemons wiki .
 
+### [gakuran codes](https://gakuran-codes.org/)
+
+show you all the gakuran codes and guides.
+
 ---
 
 ## 📬 Contact
