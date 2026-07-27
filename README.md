@@ -43,9 +43,9 @@ A useful website for testing your hardward.
 
 Make Large Posters From Any Image.
 
-### [selllemons](https://selllemons-wiki.com/)
+### [bad quality image maker](https://badqualityimagemaker.com/)
 
-sell your lemons wiki .
+low or bad quality image maker as you want.
 
 ### [gakuran codes](https://gakuran-codes.org/)
 
